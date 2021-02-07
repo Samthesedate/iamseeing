@@ -1,0 +1,4 @@
+{
+  "python.pythonPath": "/home/soumyakanti/visions/visiona/venv/bin/python3",
+  "python.formatting.provider": "black"
+}
