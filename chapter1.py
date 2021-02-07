@@ -1,3 +1,3 @@
 import cv2
 
-print("Imported")
+print("Lolol")
